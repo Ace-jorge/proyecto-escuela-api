@@ -1,0 +1,14 @@
+# --- Configuración de MySQL ---
+# El puerto por defecto de MySQL es 3306
+spring.datasource.url=jdbc:mysql://localhost:3306/escuela_db?createDatabaseIfNotExist=true
+
+spring.datasource.username=root
+spring.datasource.password=TU_PASSWORD_DE_BD_AQUI
+
+# --- Configuración de JPA ---
+spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+# --- Configuración de Seguridad JWT
+application.security.jwt.secret-key=TU_SECRET_KEY_JWT_AQUI
