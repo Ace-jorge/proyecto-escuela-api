@@ -4,12 +4,12 @@ API RESTful construida con Spring Boot para la administración de una instituci�
 
 ---
 
-## ⚠️ Estado del Proyecto
+## Estado del Proyecto
 **Este proyecto está actualmente en desarrollo.** El objetivo es crear un portafolio robusto demostrando buenas prácticas en el desarrollo backend. La Fase 1 (Módulo de Administración) está mayormente completada.
 
 ---
 
-## 🚀 Stack Tecnológico
+## Stack Tecnológico
 Este proyecto está construido con:
 * **Lenguaje:** Java 17
 * **Framework:** Spring Boot 3
@@ -51,7 +51,7 @@ Este proyecto está construido con:
 
 ---
 
-## 🗺️ Funcionalidades (Roadmap)
+## Funcionalidades (Roadmap)
 
 ### Fase 1: Módulo de Administración (Casi Completo)
 - [x] **Seguridad:** Login y protección de endpoints por rol (Admin, Profesor, Alumno).
