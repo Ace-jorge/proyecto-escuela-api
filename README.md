@@ -22,7 +22,7 @@ Este proyecto está construido con:
 
 ---
 
-## 🛠️ Cómo Ejecutarlo Localmente
+## Cómo Ejecutarlo Localmente
 
 1.  **Clonar el repositorio:**
     ```bash
